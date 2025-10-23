@@ -3,7 +3,7 @@
 
 ### 🧠 UNIDAD 1  
 📘 Fundamentos, algoritmos y estructuras básicas.  
-🔗 [Link 1](https://github.com/SOCR-BIT/Repositorio1/blob/main/Link1)
+🔗 [Link 1](Link1.md)
 
 ### ⚙️ UNIDAD 2  
 🔍 Lógica, control de flujo y estructuras de datos.  
