@@ -1,19 +1,21 @@
-<pre style="font-family: Consolas, monospace; font-size: 15px;">
+# 💻 TEORÍA DE LA PROGRAMACIÓN  
+## 🧾 Portafolio digital de aprendizaje  
 
-💻 TEORÍA DE LA PROGRAMACIÓN
+### 🧠 UNIDAD 1  
+📘 Fundamentos, algoritmos y estructuras básicas.  
+🔗 [Link 1](https://github.com/SOCR-BIT/Repositorio1/blob/main/Link1)
 
-🧠 UNIDAD 1
+### ⚙️ UNIDAD 2  
+🔍 Lógica, control de flujo y estructuras de datos.  
 
-  [Link1](https://github.com/SOCR-BIT/Link1)
+### 🧮 UNIDAD 3  
+💡 Aplicaciones prácticas y resolución de problemas.  
 
-⚙️ UNIDAD 2
+### 🎓 CONCLUSIONES  
+✍️ Reflexión sobre el aprendizaje obtenido.  
 
-🧮 UNIDAD 3
+### 📚 REFERENCIAS  
+🔗 Fuentes consultadas y materiales de apoyo.  
 
-🎓 CONCLUSIONES
-
-📚 REFERENCIAS
-
-🤖 USO DE IA
-
-</pre>
+### 🤖 USO DE IA  
+🧠 Aplicaciones, herramientas y análisis de resultados.
